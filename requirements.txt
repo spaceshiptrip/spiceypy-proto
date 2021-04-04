@@ -1,0 +1,2 @@
+numpy==1.20.2
+spiceypy==4.0.0
