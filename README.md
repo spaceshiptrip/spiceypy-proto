@@ -100,4 +100,7 @@ https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de440_tech-commen
 
 1. MetaKernels: https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/req/kernel.html#Path%20Symbols%20in%20Meta-kernels
 1. Cassini Example: https://spiceypy.readthedocs.io/en/main/exampleone.html
+1. WebGeocalc: https://wgc.jpl.nasa.gov:8443/webgeocalc/#NewCalculation
+   * python binding for webgeocalc restful API: https://github.com/seignovert/python-webgeocalc
+   
 
