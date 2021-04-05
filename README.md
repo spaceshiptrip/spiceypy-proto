@@ -69,7 +69,7 @@ https://naif.jpl.nasa.gov/pub/naif/CASSINI/kernels/spk/981005_PLTEPH-DE405S.bsp
 
 **Kernels are not included in github due to size limitations Git LFS latencies**
 
-#### mars-sattelites.py
+#### plot-mars.py
 
 ```
 ... <base directory>
