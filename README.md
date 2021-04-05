@@ -84,6 +84,9 @@ https://naif.jpl.nasa.gov/pub/naif/generic_kernels/lsk/naif0012.tls
 https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/satellites/mar097.bsp
 https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/satellites/mar097.cmt
 https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/satellites/mar097.inp
+https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de440.bsp
+https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de440_tech-comments.txt
+
 
 
 ## Further Reading
